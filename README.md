@@ -1,5 +1,5 @@
  ## Dashboard Preview
-https://github.com/goutam1451/PowerBi_dashboard_project/blob/main/SCREENSHOTS%20DASHBOARD.png
+https://github.com/goutam1451/PowerBi_dashboard_project/blob/main/DASHBOARDs.png
 
 ## How to Use
 1. Download the `.pbix` file
