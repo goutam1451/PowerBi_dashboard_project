@@ -1,7 +1,7 @@
-SCREENSHOTS DASHBOARD.png
+ ## Dashboard Preview
+https://github.com/goutam1451/PowerBi_dashboard_project/blob/main/SCREENSHOTS%20DASHBOARD.png
 
-
-Created interactive dashboards to track and analyze online sales data.
+Created interactive dashboard to track and analyze online sales data.
 Used complex parameters to drill down in worksheet and customization using filters and slicers.
 Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visulizations. 
-Used different types of customized visulization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers,etc).
+Used different types of customized visulization (bar chart, pie chart, donut chart, slicers,etc).
