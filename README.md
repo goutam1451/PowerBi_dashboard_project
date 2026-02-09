@@ -7,7 +7,13 @@ https://github.com/goutam1451/PowerBi_dashboard_project/blob/main/DASHBOARDs.png
 2. Open with Power BI Desktop
 3. Refresh data 
 
-Created interactive dashboard to track and analyze online sales data.
-Used complex parameters to drill down in worksheet and customization using filters and slicers.
-Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visulizations. 
-Used different types of customized visulization (bar chart, pie chart, donut chart, slicers,etc).
+
+Online Sales Dashboard (Power BI)
+
+Analyzed online sales data to identify regional, product, and customer performance trends
+
+Gathered business requirements and translated them into interactive dashboard features
+
+Built KPIs and drill-down views to support management decision-making
+
+Delivered insights to highlight high-revenue regions and underperforming product categories.
